@@ -1,5 +1,7 @@
 
 - Fabio Henrique Campos Salame Silva
-- Engenharia de Computação(EC1MA)
+- Engenharia de Computação(EC)
 - 👀 programação, hardware, jogos e IA
-- Aprender a programar o básico da linguagem C e alinhar a rotina
+- Aprender a desenvolver programas independentes e para o mercado no geral
+  
+  
