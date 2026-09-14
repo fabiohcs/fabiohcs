@@ -1,5 +1,5 @@
     I am Fabio Henrique Campos Salame Silva
-- Engenharia de Computação(EC) UFPA | Computer Engineering UFPA
+- Estudante de Engenharia de Computação(EC) na UFPA | Student of Computer Engineering at UFPA
 - Interesse em programação, IA, jogos, devweb.
   
   
